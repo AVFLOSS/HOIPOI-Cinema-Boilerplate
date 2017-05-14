@@ -2,6 +2,8 @@
 
 {% include background-video.md %}
 
+<br>
+
 <!-- content -->
 
 {% include credits.md %}
@@ -16,7 +18,9 @@
 
 <!-- /content -->
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+
+<link rel="stylesheet" type="text/css" href="background-video.css">
 
 <link rel="stylesheet" type="text/css" href="https://afeld.github.io/emoji-css/emoji.css">
 
