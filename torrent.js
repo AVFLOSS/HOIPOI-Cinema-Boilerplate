@@ -69,14 +69,14 @@ var torrentId = 'magnet:?xt=urn:btih:296533d5b4cc6a59ebd2dcdc0575e5e948dba65b&dn
       // track.kind = "captions"; 
       // track.label = "French"; 
       // track.srclang = "fr"; 
-      // track.src = "../subtitles/lineaylineo_fr.vtt";
+      // track.src = "torrent_source/film_title/film_title_sub_fr.vtt";
       // elem.appendChild(track);
 
       // var track = document.createElement("track"); 
       // track.kind = "captions"; 
       // track.label = "English"; 
       // track.srclang = "en"; 
-      // track.src = "../subtitles/lineaylineo_en.vtt"; 
+      // track.src = "torrent_source/film_title/film_title_sub_en.vtt"; 
       // elem.appendChild(track);
 
       elem.textTracks[0].mode = "showing"; // thanks Firefox  
