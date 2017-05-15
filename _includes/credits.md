@@ -1,9 +1,9 @@
 ### Credits
 
-Line and line, a cartesian short story 
+[Carlos Padial](http://surreal.asturnazari.com){:target="_blank"}
 
-by [Julia](http://vanidadivinotesoro.blogspot.com.es){:target="_blank"} [Olavarrieta](http://estoyhechountrapo.com/){:target="_blank"} and [Carlos Padial](http://surreal.asturnazari.com){:target="_blank"}
+Animation exercise based on **Norman McLaren - Canon (1964)**
 
-Translations by **María Velasco**.
+https://www.youtube.com/watch?v=F0js1oTe6yc
 
-Made with [Blender](https://blender.org){:target="_blank"} and [Ardour](https://ardour.org/){:target="_blank"}
+Made with [Blender](https://blender.org){:target="_blank"}

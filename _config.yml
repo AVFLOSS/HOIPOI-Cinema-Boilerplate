@@ -1,12 +1,7 @@
 theme: jekyll-theme-minimal
 
 ---
-title: Linea y Lineo, un microrelato cartesiano
-permalink: /projector/index.html
----
-
----
-title: Linea y Lineo, un microrelato cartesiano
-permalink: /torrent/index.html
+title: film_title, film_subtitle
+permalink: /iframe/index.html
 ---
 

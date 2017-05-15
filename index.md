@@ -1,7 +1,16 @@
+<br>
 
-{% include main-video.md %}
+### Film_name
+
+{% include torrent-video.md %}
+
+{% include background-video.md %}
+
+<br>
 
 <!-- content -->
+
+<i class="em em-ok_hand"></i>
 
 {% include credits.md %}
 
@@ -11,18 +20,22 @@
 
 {% include licencia.md %}
 
-{% include torrent-banner.md %}
+{% include hoipoi-faq.md %}
+
 
 <!-- /content -->
-
-<!-- scripts -->
 
 <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
 
 <link rel="stylesheet" type="text/css" href="background-video.css">
 
-<!-- emoji styles -->
 <link rel="stylesheet" type="text/css" href="https://afeld.github.io/emoji-css/emoji.css">
 
-<!-- run main script -->
-<script type="text/javascript" src='main.js'></script>
+<!-- Moment is used to show a human-readable remaining time -->
+<script src="http://momentjs.com/downloads/moment.min.js"></script>
+
+<!-- Include the latest version of WebTorrent -->
+<script src="https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js"></script>
+
+<!-- activate hoipoi cinema -->
+<script type="text/javascript" src='torrent.js'></script>
